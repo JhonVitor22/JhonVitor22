@@ -15,7 +15,7 @@ Hardware: Especialista em montagem, manutenção e otimização de sistemas.
 Sistemas: Domínio de Windows Registry e personalização de SO.
 
 ✨ Curiosidades & Interesses
-Além da tecnologia, sou autor de projetos literários como o suspense "O Dossier Laurent" e a fantasia "Arcane Shadow".
+Além da tecnologia, sou autor de projetos literários como o suspense "O Dossier Laurent".
 
 Sou entusiasta de hardware clássico e performance máxima em sistemas.
 
